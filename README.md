@@ -91,28 +91,6 @@ Data-Cleaning-and-Visualization/
 
 
 
-## Installation
-
-### Clone the Repository
-
-
-git clone https://github.com/your-username/Data-Cleaning-and-Visualization.git
-
-
-### Navigate to the Project Directory
-
-
-cd Data-Cleaning-and-Visualization
-
-
-### Install Required Libraries
-
-
-pip install pandas matplotlib
-
-
-
-
 ## Sample Output
 
 
