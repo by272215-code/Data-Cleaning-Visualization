@@ -103,30 +103,30 @@ Original Dataset
   Region  Sales
 
   
-0  North   1000
+0      North   1000
 
-1  South   1500
+1      South   1500
 
-2   East   1200
+2       East   1200
 
-3   West   1800
+3       West   1800
 
-4  North   1300
+4      North   1300
 
 Cleaned Dataset
 
 
-  Region  Sales
+   Region  Sales
   
-0  North   1000
+0     North   1000
 
-1  South   1500
+1     South   1500
 
-2   East   1200
+2      East   1200
 
-3   West   1800
+3      West   1800
 
-4  North   1300
+4     North   1300
 
 
 Total Sales: 14600
