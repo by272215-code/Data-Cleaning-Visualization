@@ -3,11 +3,6 @@
 
 
 
-
-
-
-
-
 ## Introduction
 
 This project was developed as part of my Data Science learning journey to understand the importance of data preprocessing and visualization.
@@ -103,20 +98,36 @@ Data-Cleaning-and-Visualization/
 
 
 Original Dataset
+
+
   Region  Sales
+
+  
 0  North   1000
+
 1  South   1500
+
 2   East   1200
+
 3   West   1800
+
 4  North   1300
 
 Cleaned Dataset
+
+
   Region  Sales
+  
 0  North   1000
+
 1  South   1500
+
 2   East   1200
+
 3   West   1800
+
 4  North   1300
+
 
 Total Sales: 14600
 Average Sales: 1460.00
