@@ -1,4 +1,12 @@
 # 📊 Data Cleaning and Visualization Project
+<img width="990" height="665" alt="Screenshot 2026-06-06 170526" src="https://github.com/user-attachments/assets/ef09f0b7-3af0-4d91-ab99-a3bd249e43f9" />
+
+
+
+
+
+
+
 
 ## Introduction
 
@@ -95,17 +103,23 @@ Data-Cleaning-and-Visualization/
 
 
 Original Dataset
-     Region  Sales
-0    North   5000
-1    South   4500
+  Region  Sales
+0  North   1000
+1  South   1500
+2   East   1200
+3   West   1800
+4  North   1300
 
 Cleaned Dataset
-     Region  Sales
-0    North   5000
-1    South   4500
+  Region  Sales
+0  North   1000
+1  South   1500
+2   East   1200
+3   West   1800
+4  North   1300
 
-Total Sales: 25000
-Average Sales: 5000.00
+Total Sales: 14600
+Average Sales: 1460.00
 
 
 
